@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dario Lanza Account"
+title                    : "Dario Lanza"
 title_separator          : "-"
 name                     : &name "Dario Lanza"
 description              : &description "Personal web page"
