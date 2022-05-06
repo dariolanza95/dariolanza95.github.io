@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  avatar           : "ID_photo.png"
   bio              : "I’m a Ph.D. student at Universidad de Zaragoza in Spain. I’m currently working at the intersection between computer graphics and appearance modeling. The goal of my work is to simplify the editing of realistic materials, both data-driven and parametric.
   location         : "Spain"
   employer         : "Universidad de Zaragoza"
