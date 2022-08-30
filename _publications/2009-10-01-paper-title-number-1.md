@@ -2,11 +2,10 @@
 title: "On the Influence of Dynamic Illumination in the Perception of Translucency"
 collection: publications
 permalink: https://graphics.unizar.es/projects/PerceptionTranslucencyDynamicIllumination/
-excerpt: 'In this paper we study the impact of moving a lightsource in the perception of translucent materials.'
+excerpt: 'In this work, we focus on the effect of illumination on the appearance of translucent materials. In particular, we analyze how static and dynamic illumination impact the perception of translucency. From our set-up, it seems that light motion does not have a significant impact on how translucent materials appear.'
 date: 2022-10-22
 venue: 'ACM Symposium on Applied Perception'
 Project Page: 'https://graphics.unizar.es/projects/PerceptionTranslucencyDynamicIllumination/'
 ---
 
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Project Page](https://graphics.unizar.es/projects/PerceptionTranslucencyDynamicIllumination/)
