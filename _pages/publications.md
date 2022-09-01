@@ -33,11 +33,11 @@ author_profile: true
             <span class="pub-site">ACM Symposium on Applied Perception (SAP), 2022</span><br>
             
             <hr style="margin:12px auto">
-            <a href="https://graphics.unizar.es/papers/2022_Bernal_SSTSal.pdf" target="_blank"><span class="label-primary">PDF</span></a>
+            <a href="https://graphics.unizar.es/papers/2022_Lanza_PerceptionTranslucencyDynamicIllumination.pdf" target="_blank"><span class="label-primary">PDF</span></a>
             <a href="https://graphics.unizar.es/projects/PerceptionTranslucencyDynamicIllumination/" target="_blank"><span class="label-primary">Project page</span></a> 
             <a href="https://www.youtube.com/watch?v=AqFBCdjfbXk&t=1s" target="_blank"><span class="label-primary">Fast Forward</span></a> 
-            <a href="https://graphics.unizar.es/docs/Bernal_2022_SSTSal.bib" target="_blank"><span class="label-primary">Bibtex</span></a> 
-            <span class="categ-jour"> <strong>Journal (JCR Q2)</strong></span>
+            <!--<a href="https://graphics.unizar.es/docs/Bernal_2022_SSTSal.bib" target="_blank"><span class="label-primary">Bibtex</span></a> 
+            <span class="categ-jour"> <strong>Symposium (JCR Q2)</strong></span> -->
             
             
           </p>
