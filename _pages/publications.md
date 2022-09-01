@@ -22,7 +22,7 @@ author_profile: true
       <tr valign="top" style="background-color: rgb(249, 249, 249);border-radius:11pt;border-style: groove;border-color:#ffffff3b;border-width: 2px;">
         <td class="imagestyle">
           
-          <img src="../images/Dynamic_Illumination_teaser.png">
+          <img src="../images/PerceptionTranslucencyDynamicIllumination_teaser.png">
           
         </td>
         <td class="publications">
