@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dario Lanza"
   avatar           : "ID_photo.png"
-  bio              : "Phd doctorate at the Graphics and Imaging Lab"
+  bio              : "Ph.D. student at the Graphics and Imaging Lab"
   location         : "Zaragoza"
   employer         : "Universidad de Zaragoza"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dariolanza95"
+  github           : "https://github.com/dariolanza95"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-7183-8159"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
