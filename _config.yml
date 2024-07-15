@@ -185,7 +185,7 @@ collections:
   outreach:
     output: true
     permalink: /:collection/:path/  
-  portfolio:
+  secondments:
     output: true
     permalink: /:collection/:path/
   talks:
