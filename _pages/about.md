@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am a Ph.D. student at Universidad de Zaragoza in Spain, working at the [Graphics and Imaging Lab](https://graphics.unizar.es/) and part of the [PRIME ITN](https://prime-itn.eu/). I am currently working at the intersection between computer graphics and appearance modeling. The aim of my work is to simplify the editing of realistic materials, both data-driven and parametric. My work is supervised by Prof. [Adrian Jarabo](http://giga.cps.unizar.es/~ajarabo/) and Prof. [Belen Masia](http://webdiis.unizar.es/~bmasia/). I obtained my master’s degree from Univerzita Karlova in Prague, Czech Republic. During my master thesis, I experimented with fluid simulation and terrain erosion, under the supervision of Prof. [Alexander Wilkie](https://cgg.mff.cuni.cz/members/wilkie/). Prior to that experience, I took my bachelor’s degree at Politecnico di Torino in Italy. My non-academic interests include drawing with pen and pencils, climbing and reading (possibly something not technical). 
 
-**News**
+h2 News
 - [06/2024]: Good news! Our work "Practical Appearance Model for Foundation Cosmetics " has been accepted at the Computer Graphics Forum and will be presented at EGSR 2024 in London (EGSR 2024)! Wanna know how to reproduce foundation cosmetics? The check [our project page](https://graphics.unizar.es/projects/CosmeticsAppearance_2024/)!
 - [02/2024]: Our work "Navigating the Manifold of Translucent Appearance " has been finally accepted at the Computer Graphics Forum and will be presented at Eurographics at Cyprus (EG 2024)! Always found annoying edit translucent materials? Then maybe check [our project page](https://graphics.unizar.es/projects/translucent_manifold/)!
 - [01/2024]: I've started my internship at **Maxon Computer Gmbh**.
