@@ -11,7 +11,7 @@ redirect_from:
 Hi! I am a Ph.D. candidate at Universidad de Zaragoza in Spain, working at the [Graphics and Imaging Lab](https://graphics.unizar.es/) and part of the [PRIME ITN](https://prime-itn.eu/). I recently submitted my Ph.D. thesis, "Perception, Editing, and Modeling of Volumetric Media." While awaiting the dates for my defense, I am actively **seeking job opportunities**. My research focuses on advancing the representation of volumetric materials—such as skin, cosmetics, and feathers—from both mathematical and perceptual perspectives.
  My work has been supervised by Prof. [Adrian Jarabo](http://giga.cps.unizar.es/~ajarabo/) and Prof. [Belen Masia](http://webdiis.unizar.es/~bmasia/). I obtained my master’s degree from Univerzita Karlova in Prague, Czech Republic. During my master thesis, I experimented with fluid simulation and terrain erosion, under the supervision of Prof. [Alexander Wilkie](https://cgg.mff.cuni.cz/members/wilkie/). Prior to that experience, I took my bachelor’s degree at Politecnico di Torino in Italy. My non-academic interests include drawing with pen and pencils, climbing and reading (possibly something not technical). 
 
-**You can download my CV** [**here.**]("../files/dario_lanza_cv_2025/cv.pdf")
+**You can download my CV** [**here.**](../files/dario_lanza_cv_2025.pdf)
 
 ## News
 - [07/2024]: Good news! Our work "A Surface-based Appearance Model for Pennaceous Feathers" has been accepted at the Computer Graphics Forum and will be presented at Pacific Graphics 2024 in Huangshan (PG 2024)! Do you want to know more about feathers and how to efficiently reproduce them using a texture? Then check [our project page.](https://graphics.unizar.es/projects/CosmeticsAppearance_2024/)
